@@ -1,2 +1,4 @@
+server:
+   port:8002
 config:
    name: "123"
